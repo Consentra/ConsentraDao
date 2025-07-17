@@ -17,7 +17,7 @@ export const Header = () => {
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 rounded-lg glow">
               <img 
-                src="/lovable-uploads/ed61f1b8-7771-4919-aea0-0e72668a9a89.png" 
+                src="/consentra-uploads/ed61f1b8-7771-4919-aea0-0e72668a9a89.png" 
                 alt="Consentra Logo" 
                 className="w-full h-full object-contain"
               />
